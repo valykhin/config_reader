@@ -1,0 +1,4 @@
+config:
+  value: not_value
+  name: name
+rendered_value: {{rendered_value}}
